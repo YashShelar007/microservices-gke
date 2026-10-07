@@ -1,4 +1,3 @@
-# microservices-gke/cloudbuild.yaml
 
 steps:
   # 1. Build & push user-service image
